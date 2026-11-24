@@ -1,6 +1,10 @@
 # game
 This game is a basic platformer and i have made this game to learn more about the new gadot updates and settings.
 
+# Function
+There is no obective in this game it is a baic move - jump game 
+
+
 ## Controls
  
  A - left
@@ -9,9 +13,11 @@ This game is a basic platformer and i have made this game to learn more about th
 
 ## Acknowledgement
 
- [![Acknowledgment](https://shields.io)](https://godotengine.org)
+ (https://godotengine.org)
 
- [![Acknowledgment](https://shields.io)](https://brackeysgames.itch.io/brackeys-platformer-bundle)
+ (https://brackeysgames.itch.io/brackeys-platformer-bundle)
+
+ Thank you for visiting 
 
  
 
